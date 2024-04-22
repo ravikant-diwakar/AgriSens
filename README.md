@@ -5,7 +5,7 @@
 **Link :** https://agrisens.netlify.app/
 
 <div align="center">
-    <a href="https://agrisens.netlify.app/" style="background-color: #4CAF50; color: white; padding: 12px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Your Button Text</a>
+  <a href="URL" style="background-color: #4CAF50; color: white; padding: 12px 24px; text-align: center; text-decoration: none; display: inline-block; border-radius: 50px; border: 2px solid #4CAF50; font-family: Arial; font-size: 16px; letter-spacing: 1px; text-transform: uppercase;">Your Button Text</a>
 </div>
 
 
