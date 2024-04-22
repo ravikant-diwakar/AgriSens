@@ -73,6 +73,10 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 
 ![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
 
+| Accuracy vs Crop Graphs |
+| ------------------------|
+| ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/7a268735-3af0-4849-9ea5-6cfbe92f0e23) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/6792cbce-4ecd-4827-916d-9c726e141547) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/38bdda26-5c84-427c-93a6-5bc26239f6a6) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/577be114-0ac3-4e1a-a29a-7798b49384fd) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/a377680d-bd09-4e8e-a3c5-e9a064826f85) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/b120061b-3bf3-4ebb-9cc0-145d17a7f995) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/8683cc6e-be9d-4d38-b114-5e7076cd75c6) |
+
 ### Plant Disease Identification Model:
 - The Convolutional Neural Network (CNN) architecture was trained for crop disease identification.
 - The CNN achieved significant accuracy in accurately detecting and classifying various plant diseases from leaf images.
