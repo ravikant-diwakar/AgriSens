@@ -38,4 +38,36 @@ For the Crop Recommendation Model, seven classification algorithms were utilized
 Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
 
 2. Plant Disease Identification Model:
+   
 For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
+
+## Integration
+
+These two models are integrated into the Smart Crop Recommendation System with Plant Disease Identification. This system provides farmers with comprehensive support, offering both crop recommendations based on various factors and precise identification of crop diseases through image analysis. By combining these models, the system enables farmers to make informed decisions, optimize crop selection, and effectively manage plant diseases for sustainable agriculture and enhanced productivity.
+
+## Results
+
+The results of the Smart Crop Recommendation System with Plant Disease Identification showcase the efficacy of the implemented models:
+
+### Crop Recommendation Model:
+- Seven classification algorithms were evaluated for crop recommendation tasks.
+- The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.54%.
+- Table 1 below illustrates the accuracy achieved by each algorithm:
+
+**Table 1: Accuracy vs Algorithms**
+
+| Algorithm            | Accuracy   |
+|----------------------|------------|
+| Decision Tree        | 90.0       |
+| Gaussian Naive Bayes| 99.09      |
+| Support Vector Machine (SVM) | 10.68 |
+| Logistic Regression  | 95.22      |
+| Random Forest        | 99.54      |
+| XGBoost              | 99.09      |
+| KNN                  | 97.5       |
+
+### Plant Disease Identification Model:
+- The Convolutional Neural Network (CNN) architecture was trained for crop disease identification.
+- The CNN achieved significant accuracy in accurately detecting and classifying various plant diseases from leaf images.
+
+These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
