@@ -1,5 +1,8 @@
 # AgriSens : SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION
 
+## Website 
+**Link :** https://agrisens.netlify.app/
+
 ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/e6a4a6be-7c42-4155-ab16-6585ebb026f5)
 
 ## Introduction
@@ -27,7 +30,7 @@ The Plant Disease Image Dataset utilized for crop disease identification compris
 
 ## Model Architecture
 
-### Crop Recommendation Model:
+### Crop Recommendation Model :
    
 For the Crop Recommendation Model, seven classification algorithms were utilized to predict suitable crop recommendations. These algorithms include:
 
@@ -41,7 +44,7 @@ For the Crop Recommendation Model, seven classification algorithms were utilized
   
 Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
 
-### Plant Disease Identification Model:
+### Plant Disease Identification Model :
    
 For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
 
