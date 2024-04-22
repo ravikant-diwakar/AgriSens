@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2>Link : https://agrisens.netlify.app/</h2>
+    <h3>Link : agrisens.netlify.app</h3>
 </div>
 
 # 
