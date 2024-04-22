@@ -1,0 +1,257 @@
+body,
+html {
+  margin: 10px;
+  border: 10px;
+  padding: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #4caf50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+#model-intro,
+#explore-crops {
+  background-color: white;
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #4caf50;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #b6ccbc;
+}
+
+#crop-recommendation-how-it-works {
+  background-color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#crop-recommendation-how-it-works h2 {
+  color: #000000;
+  margin-bottom: 16px;
+}
+
+#crop-recommendation-how-it-works ol {
+  counter-reset: list-counter;
+  list-style: none;
+  padding-left: 0;
+}
+
+#crop-recommendation-how-it-works ol li {
+  counter-increment: list-counter;
+  padding-left: 40px;
+  position: relative;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+#crop-recommendation-how-it-works ol li::before {
+  content: counter(list-counter) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: bold;
+  color: #000000;
+}
+
+#smart-disease-detection,
+#about-project {
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#smart-disease-detection h2,
+#about-project h2 {
+  color: #000000;
+}
+
+#smart-disease-detection ol,
+#smart-disease-detection ul,
+#about-project ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+/* Base styles - already provided above, apply for all devices */
+
+/* Mobile-specific styles */
+@media screen and (max-width: 768px) {
+  /* Base styles - apply for all devices */
+  body,
+  html {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+  }
+
+  header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  main {
+    padding: 15px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: #333;
+  }
+
+  section {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+
+  th,
+  td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th {
+    background-color: #4caf50;
+    color: white;
+  }
+
+  tr:nth-child(even) {
+    background-color: #b6ccbc;
+  }
+
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
+
+  /* Mobile-specific styles */
+  @media screen and (max-width: 768px) {
+    header,
+    main,
+    section,
+    button {
+      padding: 10px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      font-size: 20px; /* Adjust heading sizes for better readability */
+    }
+    /* Base styles for table - apply for all devices */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    th,
+    td {
+      border: 1px solid #ddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #4caf50;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+
+    /* Mobile-specific styles */
+    @media screen and (max-width: 768px) {
+      table {
+        display: block;
+        overflow-x: auto; /* Allows table to scroll horizontally on small screens */
+      }
+
+      th,
+      td {
+        padding: 10px 5px; /* Reduces padding to fit content on smaller screens */
+        font-size: 14px; /* Smaller font size for better readability */
+      }
+
+      th {
+        font-size: 16px; /* Slightly larger font size for headers for emphasis */
+      }
+    }
+
+    th,
+    td {
+      padding: 6px; /* Smaller padding for table cells */
+    }
+
+    button {
+      padding: 8px 16px; /* Smaller padding for buttons */
+      font-size: 14px; /* Smaller font size for button text */
+    }
+  }
+}

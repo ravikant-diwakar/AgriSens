@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Development Tab</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #1e272e;
+            color: #ecf0f1;
+        }
+
+        .development-tab {
+            background-color: #3498db;
+            color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            max-width: 250px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            animation: popUp 1s ease-in-out infinite alternate;
+        }
+
+        .development-tab .oops {
+            color: #e74c3c;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .development-tab p {
+            margin: 0;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        @keyframes popUp {
+            from {
+                transform: scale(1);
+            }
+            to {
+                transform: scale(1.05);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="development-tab">
+        <p class="oops">Oops!</p>
+        <p>This tab is currently in the secret laboratory of development. Stay tuned for the grand reveal!</p>
+    </div>
+</body>
+</html>
