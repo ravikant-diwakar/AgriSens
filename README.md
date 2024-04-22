@@ -70,10 +70,19 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
+
+![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
+
 ### Plant Disease Identification Model:
 - The Convolutional Neural Network (CNN) architecture was trained for crop disease identification.
 - The CNN achieved significant accuracy in accurately detecting and classifying various plant diseases from leaf images.
 
-![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
+
+
+
+
+                                                         Example of Diseased image
+
+                   
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
