@@ -24,15 +24,17 @@ The Plant Disease Image Dataset utilized for crop disease identification compris
 ## Model Architecture
 
 1. Crop Recommendation Model:
+   
 For the Crop Recommendation Model, seven classification algorithms were utilized to predict suitable crop recommendations. These algorithms include:
 
-Decision Tree
-Gaussian Naive Bayes
-Support Vector Machine (SVM)
-Logistic Regression
-Random Forest (achieved the best accuracy)
-XGBoost
-KNN
+- Decision Tree
+- Gaussian Naive Bayes
+- Support Vector Machine (SVM)
+- Logistic Regression
+- Random Forest (achieved the best accuracy)
+- XGBoost
+- KNN
+  
 Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
 
 2. Plant Disease Identification Model:
