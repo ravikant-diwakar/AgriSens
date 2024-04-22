@@ -21,3 +21,19 @@ Label is the value we will be predicting
 2. Plant Disease Identification Model :
 The Plant Disease Image Dataset utilized for crop disease identification comprises a secondary dataset featuring 70,295 plant snapshots exhibiting a spectrum of illnesses. Standardized to a resolution of 128x128 pixels, this dataset occupies a storage space of five gigabytes. Within this dataset, there are 38 distinct classes, encompassing 14 different plant types and 26 identifiable illnesses. Serving as the primary training data for all machine learning algorithms referenced in the study, the dataset's algorithm exhibiting the highest accuracy was chosen for further evaluation and application. Data preprocessing techniques, including normalization, feature scaling, and handling of missing values, were applied to ensure data consistency and cleanliness.
 
+## Model Architecture
+
+1. Crop Recommendation Model:
+For the Crop Recommendation Model, seven classification algorithms were utilized to predict suitable crop recommendations. These algorithms include:
+
+Decision Tree
+Gaussian Naive Bayes
+Support Vector Machine (SVM)
+Logistic Regression
+Random Forest (achieved the best accuracy)
+XGBoost
+KNN
+Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
+
+2. Plant Disease Identification Model:
+For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
