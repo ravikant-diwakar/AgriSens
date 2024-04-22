@@ -1,5 +1,7 @@
 # AgriSens : SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION
 
+![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/e6a4a6be-7c42-4155-ab16-6585ebb026f5)
+
 ## Introduction
 
 This project aims to revolutionize agriculture by integrating machine learning technology to provide smart crop recommendations and assist in plant disease identification. By leveraging data analytics and deep learning techniques, farmers can make informed decisions for optimal crop selection and management.
@@ -15,13 +17,13 @@ This project aims to revolutionize agriculture by integrating machine learning t
 ## Data
 
 ### Crop Recommendation Model :
-This dataset consists of 2200 rows in total.
-Each row has 8 columns representing Nitrogen, Phosphorous, Potassium, Temperature, Humidity, PH, Rainfall and Label
-NPK(Nitrogen, Phosphorous and Potassium) values represent the NPK values in the soil. Temperature, humidity and rainfall are the average values of the sorroundings environment respectively. PH is the PH value present in the soil. The Label column tells us the type of crop that's best suited to grow based on these conditions.
-Label is the value we will be predicting
+This dataset consists of **2200 rows** in total.
+**Each row has 8 columns representing Nitrogen, Phosphorous, Potassium, Temperature, Humidity, PH, Rainfall and Label**
+NPK(Nitrogen, Phosphorous and Potassium) values represent the NPK values in the soil. Temperature, humidity and rainfall are the average values of the sorroundings environment respectively. PH is the PH value present in the soil. **The Label column tells us the type of crop that's best suited to grow based on these conditions.
+Label is the value we will be predicting**
 
 ### Plant Disease Identification Model :
-The Plant Disease Image Dataset utilized for crop disease identification comprises a secondary dataset featuring 70,295 plant snapshots exhibiting a spectrum of illnesses. Standardized to a resolution of 128x128 pixels, this dataset occupies a storage space of five gigabytes. Within this dataset, there are 38 distinct classes, encompassing 14 different plant types and 26 identifiable illnesses. Serving as the primary training data for all machine learning algorithms referenced in the study, the dataset's algorithm exhibiting the highest accuracy was chosen for further evaluation and application. Data preprocessing techniques, including normalization, feature scaling, and handling of missing values, were applied to ensure data consistency and cleanliness.
+The Plant Disease Image Dataset utilized for crop disease identification comprises a secondary dataset featuring **70,295 plant snapshots** exhibiting a spectrum of illnesses. Standardized to a resolution of 128x128 pixels, this dataset occupies a storage space of five gigabytes. Within this dataset, there are **38 distinct classes**, encompassing 14 different plant types and **26 identifiable illnesses**. Serving as the primary training data for all machine learning algorithms referenced in the study, the dataset's algorithm exhibiting the highest accuracy was chosen for further evaluation and application. Data preprocessing techniques, including normalization, feature scaling, and handling of missing values, were applied to ensure data consistency and cleanliness.
 
 ## Model Architecture
 
@@ -63,13 +65,15 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 | Decision Tree        | 90.0       |
 | Gaussian Naive Bayes| 99.09      |
 | Support Vector Machine (SVM) | 10.68 |
-| Logistic Regression  | 95.22      |
-| Random Forest        | 99.54      |
+| Logistic Regression  | 95.23      |
+| Random Forest        | 99.55      |
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
 ### Plant Disease Identification Model:
 - The Convolutional Neural Network (CNN) architecture was trained for crop disease identification.
 - The CNN achieved significant accuracy in accurately detecting and classifying various plant diseases from leaf images.
+
+![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
