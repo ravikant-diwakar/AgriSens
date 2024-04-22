@@ -6,9 +6,11 @@ This project aims to revolutionize agriculture by integrating machine learning t
 
 ## Features
 
-1. Smart Crop Recommendation: Utilizes machine learning algorithms to recommend suitable crops based on factors like soil nutrients, climate conditions, and historical data.
-2. Plant Disease Identification: Employs convolutional neural networks (CNNs) to detect and classify plant diseases accurately from uploaded images, enabling timely interventions.
-3. User-Friendly Interface: Offers an intuitive interface for farmers to input relevant data and receive personalized crop recommendations and disease diagnosis.
+- **Smart Crop Recommendation :** Utilizes machine learning algorithms to recommend suitable crops based on factors like soil nutrients, climate conditions, and historical data.
+- **Plant Disease Identification :** Employs convolutional neural networks (CNNs) to detect and classify plant diseases accurately from uploaded images, enabling timely interventions.
+- **User-Friendly Interface :** Offers an intuitive interface for farmers to input relevant data and receive personalized crop recommendations and disease diagnosis.
+- **Today's Weather Forecast :** Provides real-time weather insights on temperature, humidity, and more, enabling farmers to plan their farming activities with precision.
+- **Explore Crop Planning :** Guides farmers in planning crop planting schedules for optimal productivity based on soil quality, weather, and other essential factors.
 
 ## Data
 
