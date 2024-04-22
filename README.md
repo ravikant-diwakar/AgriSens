@@ -2,9 +2,9 @@
     <h1>SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION</h1>
 </div>
 
-| <div align="center">
+<div align="center">
     <a href="https://agrisens.netlify.app/" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 30px; font-size: 16px; font-weight: bold;">Link</a>
-</div> |
+</div>
 
 # 
 ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/e6a4a6be-7c42-4155-ab16-6585ebb026f5)
