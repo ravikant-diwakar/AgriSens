@@ -1,7 +1,5 @@
-# SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION 
-
 <div align="center">
-    <h1>Your Heading Title</h1>
+    <h1>SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION</h1>
 </div>
 
 **Link :** https://agrisens.netlify.app/ 
