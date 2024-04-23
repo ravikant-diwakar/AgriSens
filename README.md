@@ -84,7 +84,7 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
-| Accuracy Comparison Graph |
+| Accuracy Comparison Graph of all models |
 |---------------------------|
 ![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
 
