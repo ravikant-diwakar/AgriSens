@@ -72,8 +72,8 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 - The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.54%.
 - Table 1 below illustrates the accuracy achieved by each algorithm:
 
-**Table 1: Accuracy vs Algorithms**
-
+| **Table 1: Accuracy vs Algorithms** |
+|-------------------------------------|
 | Algorithm            | Accuracy   |
 |----------------------|------------|
 | Decision Tree        | 90.0       |
@@ -84,7 +84,8 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
-
+| Accuracy Comparison |
+|---------------------|
 ![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
 
 | Accuracy vs Crop Graphs |
