@@ -56,6 +56,13 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 
 These two models are integrated into the Smart Crop Recommendation System with Plant Disease Identification. This system provides farmers with comprehensive support, offering both crop recommendations based on various factors and precise identification of crop diseases through image analysis. By combining these models, the system enables farmers to make informed decisions, optimize crop selection, and effectively manage plant diseases for sustainable agriculture and enhanced productivity.
 
+## System Architecture
+
+| System Architecture |
+|---------------------|
+| ![pixelcut-export](https://github.com/ravikant-diwakar/AgriSens/assets/110620635/798ac09f-e2f7-4d4c-b92d-36869c49cd66) |
+
+
 ## Results
 
 The results of the Smart Crop Recommendation System with Plant Disease Identification showcase the efficacy of the implemented models:
