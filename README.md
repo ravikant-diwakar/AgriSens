@@ -113,3 +113,8 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 - Gaurav Kumar
 - Aditya Chaudhary
 - Jaya Vashistha
+
+#### Contact
+
+If you have any questions or feedback, feel free to reach out to us at [email@example.com](mailto:diwakarr956@gmail.com).
+
