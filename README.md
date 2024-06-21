@@ -118,5 +118,5 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 If you have any questions or feedback, feel free to reach out to us at [diwakarr956@gmail.com](mailto:diwakarr956@gmail.com).
 
-```
+---
 
