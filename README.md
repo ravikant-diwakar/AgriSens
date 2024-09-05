@@ -108,9 +108,10 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
 
 ## 📌 CONTRIBUTERS
-- Ravikant Diwakar
-- Amit Kumar
-- Gaurav Kumar @[Gauravkumar1741](https://github.com/Gauravkumar1741)
+- [Ravikant Diwakar](https://github.com/ravikant-diwakar)
+- [Amit Kumar](https://github.com/AMITKUMAR7970)
+- [Gauravkumar1741](https://github.com/Gauravkumar1741)
+- https://github.com/jaya7394
 - Aditya Chaudhary
 - Jaya Vashistha
 
