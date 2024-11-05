@@ -59,9 +59,6 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 ## 📌 Results
 
-The results of the Smart Crop Recommendation System with Plant Disease Identification showcase the efficacy of the implemented models:
-
-### Crop Recommendation Model:
 - Seven classification algorithms were evaluated for crop recommendation tasks.
 - The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.54%.
 - Table 1 below illustrates the accuracy achieved by each algorithm:
