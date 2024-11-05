@@ -97,7 +97,7 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 
 ## Plant Disease Identification Model : 
 
-This project focuses on identifying and classifying plant diseases using a Convolutional Neural Network (CNN). The model has been trained specifically for 15 types of crops and 38 disease cases, making it capable of diagnosing diseases for those crops only.
+This project focuses on identifying and classifying plant diseases using a Convolutional Neural Network (CNN). The model has been trained specifically for 14 types of crops and 38 disease cases, making it capable of diagnosing diseases for those crops only.
 
 ### Key Features:
 - **Crop Specific**: The model is designed to diagnose diseases for a specific set of crops.
