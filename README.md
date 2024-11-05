@@ -108,6 +108,10 @@ This project focuses on identifying and classifying plant diseases using a Convo
 - The model works with a predefined list of 15 crops.
 - For each crop, the model is trained to detect and classify up to 38 specific diseases.
 
+```
+[ Apple, Blueberry, Cherry_(including sour), Corn_(maize), Grape, Orange, Peach, Pepper, _bell, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato ]
+
+```
 ### How it Works:
 - The model uses images of plant leaves to detect symptoms of various diseases.
 - It applies CNN-based image classification to identify the correct disease for a given crop.
