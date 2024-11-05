@@ -96,6 +96,43 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 - The Convolutional Neural Network (CNN) architecture was trained for crop disease identification.
 - The CNN achieved significant accuracy in accurately detecting and classifying various plant diseases from leaf images.
 
+
+
+
+
+
+
+
+Certainly! Here's a clear, simple, and professional way to write the description for your GitHub README:
+
+---
+
+## Plant Disease Identification Model
+
+This project focuses on identifying and classifying plant diseases using a Convolutional Neural Network (CNN). The model has been trained specifically for 15 types of crops and 38 disease cases, making it capable of diagnosing diseases for those crops only.
+
+### Key Features:
+- **Crop Specific**: The model is designed to diagnose diseases for a specific set of crops.
+- **Disease Diagnosis**: It can classify diseases based on images of leaves.
+- **Accuracy**: The CNN model demonstrates high accuracy in identifying plant diseases, helping farmers and researchers detect issues early.
+
+### Supported Crops and Diseases:
+- The model works with a predefined list of 15 crops.
+- For each crop, the model is trained to detect and classify up to 38 specific diseases.
+
+### How it Works:
+- The model uses images of plant leaves to detect symptoms of various diseases.
+- It applies CNN-based image classification to identify the correct disease for a given crop.
+
+---
+
+Feel free to adjust the number of crops and diseases or any other specific details you may want to highlight.
+
+
+
+
+
+
 | **Example of Diseased image** |
 | ------------------------------|
 | ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/2f230981-13b5-4010-a346-595c90fb6b32) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/4219025a-0319-4b72-847f-b063c06ced0c) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/2ece067b-5f8c-46d6-b05f-d1517aaf62a9) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/cdb08134-7177-4df9-841d-1f9d3f171085) |
