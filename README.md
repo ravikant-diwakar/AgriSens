@@ -167,7 +167,7 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 - [Ravikant Diwakar](https://github.com/ravikant-diwakar)
 - [Amit Kumar](https://github.com/AMITKUMAR7970)
 - [Gaurav Kumar](https://github.com/Gauravkumar1741)
-- [Jaya Vashistha](https://github.com/jaya7394)
+- Jaya Vashistha
 - Aditya Chaudhary
 
 ## 📧 Contact
