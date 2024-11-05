@@ -33,9 +33,7 @@ Label is the value we will be predicting**
 
 
 ## 📌 Model Architecture
-
-### Crop Recommendation Model :
-   
+ 
 For the Crop Recommendation Model, seven classification algorithms were utilized to predict suitable crop recommendations. These algorithms include:
 
 - Decision Tree
