@@ -9,11 +9,11 @@
 # 
 ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/e6a4a6be-7c42-4155-ab16-6585ebb026f5)
 
-## 📌 Overview
+## Overview
 
 This project aims to revolutionize agriculture by integrating machine learning technology to provide smart crop recommendations and assist in plant disease identification. By leveraging data analytics and deep learning techniques, farmers can make informed decisions for optimal crop selection and management.
 
-## 📌 Features
+## Features
 
 - **Smart Crop Recommendation :** Utilizes machine learning algorithms to recommend suitable crops based on factors like soil nutrients, climate conditions, and historical data.
 - **Plant Disease Identification :** Employs convolutional neural networks (CNNs) to detect and classify plant diseases accurately from uploaded images, enabling timely interventions.
@@ -22,11 +22,11 @@ This project aims to revolutionize agriculture by integrating machine learning t
 - **Smart Farming Guide :** Guides farmers in planning crop planting schedules for optimal productivity based on soil quality, weather, and other essential factors.
 
 ---
-# Crop Recommendation Model
+# 📌 Crop Recommendation Model
 
 The **Crop Recommendation Model** utilizes machine learning algorithms to suggest the most suitable crops for farmers based on environmental and soil factors. By analyzing data such as soil nutrients, temperature, humidity, pH, and rainfall, the model provides tailored crop recommendations to ensure optimal growth and productivity. The model uses seven classification algorithms, with **Random Forest** achieving the highest accuracy of 99.55%. This helps farmers make informed decisions on crop selection, ensuring better yields and efficient farming practices.
 
-## 📌 Dataset
+## Dataset
 
 This dataset consists of **2200 rows** in total.
 **Each row has 8 columns representing Nitrogen, Phosphorous, Potassium, Temperature, Humidity, PH, Rainfall and Label**
@@ -34,7 +34,7 @@ NPK(Nitrogen, Phosphorous and Potassium) values represent the NPK values in the 
 Label is the value we will be predicting**
 
 
-## 📌 Model Architecture
+## Model Architecture
  
 For the Crop Recommendation Model, seven classification algorithms were utilized to predict suitable crop recommendations. These algorithms include:
 
@@ -48,7 +48,7 @@ For the Crop Recommendation Model, seven classification algorithms were utilized
   
 Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
 
-## 📌 Integration
+## Integration
 
 These two models are integrated into the Smart Crop Recommendation System with Plant Disease Identification. This system provides farmers with comprehensive support, offering both crop recommendations based on various factors and precise identification of crop diseases through image analysis. By combining these models, the system enables farmers to make informed decisions, optimize crop selection, and effectively manage plant diseases for sustainable agriculture and enhanced productivity.
 
@@ -59,7 +59,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
 | ![pixelcut-export](https://github.com/ravikant-diwakar/AgriSens/assets/110620635/798ac09f-e2f7-4d4c-b92d-36869c49cd66) |
 
 
-## 📌 Results
+## Results
 
 - Seven classification algorithms were evaluated for crop recommendation tasks.
 - The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.54%.
@@ -88,16 +88,16 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 ---
 
-# Plant Disease Identification Model 
+# 📌Plant Disease Identification Model 
 
 The **Plant Disease Identification Model** utilizes Convolutional Neural Networks (CNN) to accurately identify plant diseases from leaf images. Trained on the **Plant Disease Image Dataset**, which includes 70,295 images in the training set and 17,572 images in the validation set, the model covers 38 different plant disease classes across 14 crops. It detects and classifies diseases such as **Apple Scab**, **Tomato Blight**, and **Powdery Mildew**, offering farmers a reliable tool for early disease detection. 
 
-## 📌 Dataset
+## Dataset
 
 The **Plant Disease Image Dataset**, used for crop disease identification, consists of 70,295 plant images from the training set and 17,572 images from the validation set, covering a variety of 38 different plant disease classes. The images are standardized to a resolution of 128x128 pixels, and the dataset occupies approximately five gigabytes of storage space.
 
 
-## 📌 Model Architecture
+## Model Architecture
    
 For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
 
@@ -163,14 +163,14 @@ Found 17572 files belonging to 38 classes.
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
 
-## 📌 CONTRIBUTERS
+## 👨‍💻 CONTRIBUTERS
 - [Ravikant Diwakar](https://github.com/ravikant-diwakar)
 - [Amit Kumar](https://github.com/AMITKUMAR7970)
 - [Gaurav Kumar](https://github.com/Gauravkumar1741)
 - [Jaya Vashistha](https://github.com/jaya7394)
 - Aditya Chaudhary
 
-## Contact
+## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out to us at [diwakarr956@gmail.com](mailto:diwakarr956@gmail.com).
 
