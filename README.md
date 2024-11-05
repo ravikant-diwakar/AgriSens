@@ -30,7 +30,9 @@ NPK(Nitrogen, Phosphorous and Potassium) values represent the NPK values in the 
 Label is the value we will be predicting**
 
 ### Plant Disease Identification Model :
-The Plant Disease Image Dataset utilized for crop disease identification comprises a secondary dataset featuring **70,295 plant snapshots** exhibiting a spectrum of illnesses. Standardized to a resolution of 128x128 pixels, this dataset occupies a storage space of five gigabytes. Within this dataset, there are **38 distinct classes**, encompassing 14 different plant types. Serving as the primary training data for all machine learning algorithms referenced in the study, the dataset's algorithm exhibiting the highest accuracy was chosen for further evaluation and application. Data preprocessing techniques, including normalization, feature scaling, and handling of missing values, were applied to ensure data consistency and cleanliness.
+
+The **Plant Disease Image Dataset**, used for crop disease identification, consists of 70,295 plant images from the training set and 17,572 images from the validation set, covering a variety of 38 different plant disease classes. The images are standardized to a resolution of 128x128 pixels, and the dataset occupies approximately five gigabytes of storage space.
+
 
 ## 📌 Model Architecture
 
