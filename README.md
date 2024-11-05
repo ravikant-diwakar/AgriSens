@@ -21,17 +21,15 @@ This project aims to revolutionize agriculture by integrating machine learning t
 - **Today's Weather Forecast :** Provides real-time weather insights on temperature, humidity, and more, enabling farmers to plan their farming activities with precision.
 - **Explore Crop Planning :** Guides farmers in planning crop planting schedules for optimal productivity based on soil quality, weather, and other essential factors.
 
-## 📌 Data
+---
+# Crop Recommendation Model
 
-### Crop Recommendation Model :
+## 📌 Dataset
+
 This dataset consists of **2200 rows** in total.
 **Each row has 8 columns representing Nitrogen, Phosphorous, Potassium, Temperature, Humidity, PH, Rainfall and Label**
 NPK(Nitrogen, Phosphorous and Potassium) values represent the NPK values in the soil. Temperature, humidity and rainfall are the average values of the sorroundings environment respectively. PH is the PH value present in the soil. **The Label column tells us the type of crop that's best suited to grow based on these conditions.
 Label is the value we will be predicting**
-
-### Plant Disease Identification Model :
-
-The **Plant Disease Image Dataset**, used for crop disease identification, consists of 70,295 plant images from the training set and 17,572 images from the validation set, covering a variety of 38 different plant disease classes. The images are standardized to a resolution of 128x128 pixels, and the dataset occupies approximately five gigabytes of storage space.
 
 
 ## 📌 Model Architecture
@@ -49,10 +47,6 @@ For the Crop Recommendation Model, seven classification algorithms were utilized
 - KNN
   
 Each algorithm was trained on a dataset comprising various factors such as soil nutrients, climate conditions, and historical data to provide accurate crop recommendations to farmers.
-
-### Plant Disease Identification Model :
-   
-For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
 
 ## 📌 Integration
 
@@ -97,9 +91,22 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 
 ---
 
-## Plant Disease Identification Model : 
+# Plant Disease Identification Model : 
 
 This project focuses on identifying and classifying plant diseases using a Convolutional Neural Network (CNN). The model has been trained specifically for 14 types of crops and 38 disease cases, making it capable of diagnosing diseases for those crops only.
+
+
+## 📌 Dataset
+
+### Plant Disease Identification Model :
+
+The **Plant Disease Image Dataset**, used for crop disease identification, consists of 70,295 plant images from the training set and 17,572 images from the validation set, covering a variety of 38 different plant disease classes. The images are standardized to a resolution of 128x128 pixels, and the dataset occupies approximately five gigabytes of storage space.
+
+
+## 📌 Model Architecture
+   
+For the Plant Disease Identification Model, a Convolutional Neural Network (CNN) architecture was employed. This CNN model was specifically trained for crop disease identification. Leveraging deep learning techniques, the CNN analyzes images of plant leaves to detect and classify diseases accurately. This model aids farmers in early disease detection and management, contributing to improved crop health and yield.
+
 
 ### Key Features:
 - **Crop Specific**: The model is designed to diagnose diseases for a specific set of crops.
