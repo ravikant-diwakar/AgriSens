@@ -91,14 +91,12 @@ The results of the Smart Crop Recommendation System with Plant Disease Identific
 
 ---
 
-# Plant Disease Identification Model : 
+# Plant Disease Identification Model 
 
 This project focuses on identifying and classifying plant diseases using a Convolutional Neural Network (CNN). The model has been trained specifically for 14 types of crops and 38 disease cases, making it capable of diagnosing diseases for those crops only.
 
 
 ## 📌 Dataset
-
-### Plant Disease Identification Model :
 
 The **Plant Disease Image Dataset**, used for crop disease identification, consists of 70,295 plant images from the training set and 17,572 images from the validation set, covering a variety of 38 different plant disease classes. The images are standardized to a resolution of 128x128 pixels, and the dataset occupies approximately five gigabytes of storage space.
 
