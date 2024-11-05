@@ -24,6 +24,8 @@ This project aims to revolutionize agriculture by integrating machine learning t
 ---
 # Crop Recommendation Model
 
+The **Crop Recommendation Model** utilizes machine learning algorithms to suggest the most suitable crops for farmers based on environmental and soil factors. By analyzing data such as soil nutrients, temperature, humidity, pH, and rainfall, the model provides tailored crop recommendations to ensure optimal growth and productivity. The model uses seven classification algorithms, with **Random Forest** achieving the highest accuracy of 99.55%. This helps farmers make informed decisions on crop selection, ensuring better yields and efficient farming practices.
+
 ## 📌 Dataset
 
 This dataset consists of **2200 rows** in total.
@@ -174,4 +176,20 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 If you have any questions or feedback, feel free to reach out to us at [diwakarr956@gmail.com](mailto:diwakarr956@gmail.com).
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
