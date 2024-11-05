@@ -108,6 +108,8 @@ This project focuses on identifying and classifying plant diseases using a Convo
 - The model works with a predefined list of 15 crops.
 - For each crop, the model is trained to detect and classify up to 38 specific diseases.
 
+Since model is trained for specific crops only so it can diagnose those specific crops only. The List of Crops For which this model will be helpful is:
+
 ```
 [ 'Apple',
 'Blueberry',
