@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>SMART CROP RECOMMENDATION SYSTEM WITH PLANT DISEASE IDENTIFICATION</h1>
+    <h1>AgriSens : YOUR SMART FARMING ASSISTANT</h1>
 </div>
 
 <div align="center">
