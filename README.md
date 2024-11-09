@@ -22,16 +22,6 @@ This project is based on the research paper published on IEEE. You can find the 
 
 [IEEE : Smart Crop Recommendation System with Plant Disease Identification](https://ieeexplore.ieee.org/document/10738975)
 
----
-
-Make sure to replace "Title of the Paper" with the actual title of the paper when you finalize it.
-
-This version keeps it concise while clearly stating that the paper is hosted on IEEE and provides a direct link.
-
-
-
-
-
 
 ## Features
 
