@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guidance</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <header class="hero">
+        <h1>SMART FARMING GUIDE</h1>
+        <div class="dropdown">
+          <button class="dropbtn" onclick="toggleDropdown()">
+            Select Crop
+          </button>
+          <div id="dropdownContent" class="dropdown-content">
+            <a href="#" onclick="showCrop('apple')">Apple</a>
+            <a href="#" onclick="showCrop('banana')">Banana</a>
+            <a href="#" onclick="showCrop('blackgram')">Black gram</a>
+            <a href="#" onclick="showCrop('chickpea')">Chickpea</a>
+            <a href="#" onclick="showCrop('coffee')">Coffee</a>
+            <a href="#" onclick="showCrop('coconut')">Coconut</a>
+            <a href="#" onclick="showCrop('cotton')">Cotton</a>
+            <a href="#" onclick="showCrop('grapes')">Grapes</a>
+            <a href="#" onclick="showCrop('jute')">Jute</a>
+            <a href="#" onclick="showCrop('kidneybeans')">Kidneybeans</a>
+            <a href="#" onclick="showCrop('lentil')">Lentil</a>
+            <a href="#" onclick="showCrop('maize')">Maize</a>
+            <a href="#" onclick="showCrop('mungbean')">Mung bean</a>
+            <a href="#" onclick="showCrop('mothbeans')">Moth beans</a>
+            <a href="#" onclick="showCrop('muskmelon')">Muskmelon</a>
+            <a href="#" onclick="showCrop('orange')">Orange</a>
+            <a href="#" onclick="showCrop('papaya')">Papaya</a>
+            <a href="#" onclick="showCrop('pigeonpeas')">Pigeon peas</a>
+            <a href="#" onclick="showCrop('pomegranate')">Pomegranate</a>
+            <a href="#" onclick="showCrop('rice')">Rice</a>
+            <a href="#" onclick="showCrop('watermelon')">Watermelon</a>
+            <a href="#" onclick="showCrop('mango')">Mango</a>
+          </div>
+        </div>
+      </header>
+      <div id="cropInfo" class="crop-info">
+        <!-- Crop information will be displayed here -->
+      </div>
+    </div>
+
+    <header>
+      <h1>SMART CROP RECOMMENDATIONS</h1>
+    </header>
+    <main>
+      <!-- <section id="model-intro">
+        <p>
+          Our crop recommendation model leverages machine learning to analyze
+          key factors such as soil nutrients, weather conditions, and rainfall
+          to provide informed agricultural decisions. By training multiple
+          models, we've honed the accuracy and precision of our recommendations,
+          ensuring that you receive the best advice for your land.
+        </p>
+      </section>
+      <section id="explore-crops">
+        <h2>Explore Optimal Crops</h2>
+        <p>
+          Discover the ideal crops for your land by exploring the average
+          conditions required for each crop. Our model takes into account
+          nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and
+          rainfall to suggest the most suitable crops.
+        </p>
+      </section> -->
+      <section id="crops-table">
+        <h3>Average Conditions for Crops</h3>
+        <table id="crop-table">
+          <thead>
+            <tr>
+              <th>Crop</th>
+              <th>Nitrogen</th>
+              <th>Phosphorus</th>
+              <th>Potassium</th>
+              <th>Temperature (°C)</th>
+              <th>Humidity (%)</th>
+              <th>pH</th>
+              <th>Rainfall (mm)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Table rows will be inserted here by JavaScript -->
+          </tbody>
+        </table>
+      </section>
+    </main>
+
+    <section id="crop-recommendation-how-it-works">
+      <h2>How Crop Recommendation Works</h2>
+      <ol>
+        <li>
+          <strong>Data Input:</strong> Begin by entering details about your
+          land, such as soil nutrient levels, weather conditions, and historical
+          rainfall data.
+        </li>
+        <li>
+          <strong>Model Analysis:</strong> Our machine learning model analyzes
+          the data using sophisticated algorithms to determine the most suitable
+          crops for your land.
+        </li>
+        <li>
+          <strong>Recommendation:</strong> Receive a recommended crops
+          along with detailed information about their optimal growing
+          conditions.
+        </li>
+      </ol>
+    </section>
+
+    <header>
+      <h1>SMART DISEASE IDENTIFICATIONS</h1>
+    </header>
+
+    <!-- <section id="smart-disease-detection">
+      <p>
+        Our mission is to help in identifying plant diseases efficiently. Upload
+        an image of a plant, and our system will analyze it to detect any signs
+        of diseases. Together, let's protect our crops and ensure a healthier
+        harvest!
+      </p>
+    </section> -->
+
+    <section id="crop-recommendation-how-it-works">
+      <h2>How Crop Disease Detection Works</h2>
+      <ol>
+        <li>
+          <strong>Upload Image:</strong> Go to the
+          <strong>Disease Recognition</strong> page and upload an image of a
+          plant with suspected diseases.
+        </li>
+        <li>
+          <strong>Analysis:</strong> Our system will process the image using
+          advanced algorithms to identify potential diseases.
+        </li>
+        <li>
+          <strong>Results:</strong> View the results and recommendations for
+          further action.
+        </li>
+      </ol>
+    </section>
+
+    <!-- <section id="about-project">
+      <h2>About</h2>
+      <p>
+        This dataset is recreated using offline augmentation from the original
+        dataset. The original dataset can be found on this GitHub repo.
+      </p>
+      <h3>Content</h3>
+      <ul>
+        <li>train (70295 images)</li>
+        <li>test (33 images)</li>
+        <li>validation (17572 images)</li>
+      </ul>
+    </section> -->
+
+    <section class="footer">
+      <p class="footer-text">© Copyright – All Rights Reserved Team AgriSens</p>
+    </div>
+
+  </section>
+    <script src="script.js"></script>
+  </body>
+</html>
