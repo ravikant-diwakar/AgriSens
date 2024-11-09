@@ -15,6 +15,24 @@
 
 This project aims to revolutionize agriculture by integrating machine learning technology to provide smart crop recommendations and assist in plant disease identification. By leveraging data analytics and deep learning techniques, farmers can make informed decisions for optimal crop selection and management.
 
+
+## Research Paper
+
+This project is based on the research paper published on IEEE. You can find the paper at the following link:
+
+[IEEE : Smart Crop Recommendation System with Plant Disease Identification](https://ieeexplore.ieee.org/document/10738975)
+
+---
+
+Make sure to replace "Title of the Paper" with the actual title of the paper when you finalize it.
+
+This version keeps it concise while clearly stating that the paper is hosted on IEEE and provides a direct link.
+
+
+
+
+
+
 ## Features
 
 - **Smart Crop Recommendation :** Utilizes machine learning algorithms to recommend suitable crops based on factors like soil nutrients, climate conditions, and historical data.
