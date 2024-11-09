@@ -8,6 +8,8 @@
 
 # 
 ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/e6a4a6be-7c42-4155-ab16-6585ebb026f5)
+![image](https://github.com/user-attachments/assets/92e489cd-2920-4de4-a3ee-30d9ec51ec50)
+
 
 ## Overview
 
