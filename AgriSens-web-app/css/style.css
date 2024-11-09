@@ -138,6 +138,7 @@ html {
   html {
     font-size: 55%;
   }
+
   .header {
     padding: 2rem;
   }
@@ -178,6 +179,7 @@ html {
     font-size: 50%;
   }
 }
+
 /* navbar sections ends */
 
 /* home section starts  */
@@ -187,13 +189,16 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Make the section full height of the viewport */
+  height: 100vh;
+  /* Make the section full height of the viewport */
 }
 
 .home .content {
   text-align: center;
-  z-index: 1; /* Place the content above the image */
-  color: #fff; /* Change the text color as needed */
+  z-index: 1;
+  /* Place the content above the image */
+  color: #fff;
+  /* Change the text color as needed */
 }
 
 .home h1 {
@@ -210,7 +215,7 @@ html {
 }
 
 /* Keyframes for the blink animation */
-@keyframes blink {
+/* @keyframes blink {
   0%,
   100% {
     transform: scale(1);
@@ -218,7 +223,7 @@ html {
   50% {
     transform: scale(1.2);
   }
-}
+} */
 
 .home-btn {
   display: inline-block;
@@ -235,7 +240,8 @@ html {
 }
 
 .home-btn:hover {
-  background-color: #2980b9; /* Change the hover background color as needed */
+  background-color: #2980b9;
+  /* Change the hover background color as needed */
 }
 
 /* Style for the image within the home section */
@@ -246,7 +252,8 @@ html {
   width: 100%;
   height: 100%;
   object-fit: fill;
-  z-index: 0; /* Place the image behind the content */
+  z-index: 0;
+  /* Place the image behind the content */
 }
 
 /* Media Queries Home */
@@ -276,15 +283,18 @@ html {
   }
 
   .rounded-corner-image {
-    border-radius: 10px; /* Adjust the level of curvature for this screen size range */
+    border-radius: 10px;
+    /* Adjust the level of curvature for this screen size range */
   }
 
   .about .box img {
-    border-radius: 8px; /* Adjust border-radius for about section images */
+    border-radius: 8px;
+    /* Adjust border-radius for about section images */
   }
 
   .footer .box img {
-    border-radius: 8px; /* Adjust border-radius for footer section images */
+    border-radius: 8px;
+    /* Adjust border-radius for footer section images */
   }
 }
 
@@ -313,15 +323,18 @@ html {
   }
 
   .rounded-corner-image {
-    border-radius: 8px; /* Adjust the level of curvature for this screen size range */
+    border-radius: 8px;
+    /* Adjust the level of curvature for this screen size range */
   }
 
   .about .box img {
-    border-radius: 6px; /* Adjust border-radius for about section images */
+    border-radius: 6px;
+    /* Adjust border-radius for about section images */
   }
 
   .footer .box img {
-    border-radius: 6px; /* Adjust border-radius for footer section images */
+    border-radius: 6px;
+    /* Adjust border-radius for footer section images */
   }
 }
 
@@ -350,15 +363,18 @@ html {
   }
 
   .rounded-corner-image {
-    border-radius: 8px; /* Adjust the level of curvature for this screen size range and orientation */
+    border-radius: 8px;
+    /* Adjust the level of curvature for this screen size range and orientation */
   }
 
   .about .box img {
-    border-radius: 6px; /* Adjust border-radius for about section images */
+    border-radius: 6px;
+    /* Adjust border-radius for about section images */
   }
 
   .footer .box img {
-    border-radius: 6px; /* Adjust border-radius for footer section images */
+    border-radius: 6px;
+    /* Adjust border-radius for footer section images */
   }
 }
 
@@ -387,15 +403,18 @@ html {
   }
 
   .rounded-corner-image {
-    border-radius: 8px; /* Adjust the level of curvature for this screen size range */
+    border-radius: 8px;
+    /* Adjust the level of curvature for this screen size range */
   }
 
   .about .box img {
-    border-radius: 6px; /* Adjust border-radius for about section images */
+    border-radius: 6px;
+    /* Adjust border-radius for about section images */
   }
 
   .footer .box img {
-    border-radius: 6px; /* Adjust border-radius for footer section images */
+    border-radius: 6px;
+    /* Adjust border-radius for footer section images */
   }
 }
 
@@ -424,15 +443,18 @@ html {
   }
 
   .rounded-corner-image {
-    border-radius: 6px; /* Adjust the level of curvature for this screen size range */
+    border-radius: 6px;
+    /* Adjust the level of curvature for this screen size range */
   }
 
   .about .box img {
-    border-radius: 4px; /* Adjust border-radius for about section images */
+    border-radius: 4px;
+    /* Adjust border-radius for about section images */
   }
 
   .footer .box img {
-    border-radius: 4px; /* Adjust border-radius for footer section images */
+    border-radius: 4px;
+    /* Adjust border-radius for footer section images */
   }
 }
 
@@ -469,8 +491,10 @@ html {
 }
 
 .rounded-corner-image {
-  border-radius: 10px; /* Adjust the value to change the level of curvature */
-  overflow: hidden; /* Ensures the corners are actually rounded */
+  border-radius: 10px;
+  /* Adjust the value to change the level of curvature */
+  overflow: hidden;
+  /* Ensures the corners are actually rounded */
 }
 
 .features .heading p {
@@ -505,6 +529,7 @@ html {
   margin-left: 200px;
   margin-right: 200px;
 }
+
 .buttonn {
   padding: 10px 20px;
   margin: 10px;
@@ -522,10 +547,12 @@ html {
   cursor: pointer;
   width: 300px;
 }
+
 .buttonn:hover {
   background-color: #00a859;
   color: white;
 }
+
 .active {
   background-color: #00a859;
   color: white;
@@ -538,6 +565,7 @@ html {
     justify-content: center;
     margin: 20px;
   }
+
   .buttonn {
     padding: 10px 20px;
   }
@@ -550,10 +578,12 @@ html {
     justify-content: center;
     margin: 20px;
   }
+
   .buttonn {
     padding: 10px 20px;
   }
 }
+
 /*Button-0 container end*/
 
 /* features section ends */
@@ -563,9 +593,23 @@ html {
 .about .box-container {
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template-columns: repeat(6, 1fr);
+  /* Fixed to 6 columns */
+  /* grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr)); */
   padding-top: 5rem;
   padding-bottom: 5rem;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .about .box-container {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .about .box-container {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  }
 }
 
 .about .box {
@@ -575,6 +619,7 @@ html {
   text-align: center;
   padding: 2.5rem;
 }
+
 .about .box:hover {
   border: 2px black solid;
   box-shadow: none;
@@ -596,16 +641,20 @@ html {
 .box img {
   width: 100%;
   height: auto;
-  border-radius: 8px; /* Adds a slight border-radius to the image */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle box shadow */
+  border-radius: 8px;
+  /* Adds a slight border-radius to the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* Adds a subtle box shadow */
   object-fit: cover;
 }
 
 .box img:hover {
-  transform: scale(1.05); /* Increases the size of the image on hover */
+  transform: scale(1.05);
+  /* Increases the size of the image on hover */
   transition: transform 0.3s ease;
   cursor: pointer;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Adds a darker box shadow on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  /* Adds a darker box shadow on hover */
 }
 
 /* styles for member details and button */
@@ -625,7 +674,8 @@ html {
 }
 
 .all-btn:hover {
-  background-color: #2980b9; /* Change the hover background color */
+  background-color: #2980b9;
+  /* Change the hover background color */
 }
 
 /* Style for the social media icons */
@@ -739,3 +789,4 @@ html {
 }
 
 /* footer section ends */
+  
