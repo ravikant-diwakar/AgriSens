@@ -74,7 +74,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
 ## Results
 
 - Seven classification algorithms were evaluated for crop recommendation tasks.
-- The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.54%.
+- The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.55%.
 - Table 1 below illustrates the accuracy achieved by each algorithm:
 
 **Table 1: Accuracy vs Algorithms**
