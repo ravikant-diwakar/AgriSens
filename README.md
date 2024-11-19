@@ -68,7 +68,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 | System Architecture |
 |---------------------|
-| ![pixelcut-export](https://github.com/ravikant-diwakar/AgriSens/assets/110620635/798ac09f-e2f7-4d4c-b92d-36869c49cd66) |
+| ![image](https://github.com/user-attachments/assets/1313654f-009f-477c-83a4-e493b17933c4) |
 
 
 ## Results
