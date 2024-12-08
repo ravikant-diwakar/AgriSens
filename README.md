@@ -13,7 +13,7 @@
 
 ## Overview
 
-This project aims to revolutionize agriculture by integrating machine learning technology to provide smart crop recommendations and assist in plant disease identification. By leveraging data analytics and deep learning techniques, farmers can make informed decisions for optimal crop selection and management.
+**Smart Farming Assistant** is an innovative solution designed to empower farmers with technology-driven insights to enhance agricultural productivity. It features a **Smart Crop Recommendation** system powered by machine learning to suggest suitable crops based on soil nutrients, climate, and historical data. A **Plant Disease Identification** tool, utilizing convolutional neural networks (CNNs), accurately diagnoses plant diseases from uploaded images, enabling timely interventions. The platform provides real-time **Weather Forecasts** for informed planning, while the **Smart Farming Guide** offers expert advice on planting schedules and crop management for optimal yield. With a **user-friendly interface** and ongoing development of features like **Fertilizer Recommendations**, this project is a step towards revolutionizing agriculture through sustainable, data-driven practices.
 
 
 ## Research Paper
