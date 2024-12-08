@@ -1,6 +1,5 @@
 <div align="center">
     <h1>AgriSens : YOUR SMART FARMING ASSISTANT</h1>
-    <h2>Revolutionizing Agriculture with Machine Learning</h2>
 </div>
 
 <div align="center">
