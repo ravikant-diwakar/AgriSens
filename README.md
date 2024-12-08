@@ -120,7 +120,7 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 - **Accuracy**: The CNN model demonstrates high accuracy in identifying plant diseases, helping farmers and researchers detect issues early.
 
 ### Supported Crops and Diseases:
-- The model works with a predefined list of 15 crops.
+- The model works with a predefined list of 14 crops.
 - For each crop, the model is trained to detect and classify up to 38 specific diseases.
 
 Since model is trained for specific crops only so it can diagnose those specific crops only. The List of Crops For which this model will be helpful is:
