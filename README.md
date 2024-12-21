@@ -25,12 +25,13 @@ You can view the research paper directly here : [View Paper](https://github.com/
 
 ## Features
 
-- **Smart Crop Recommendation :** Utilizes machine learning algorithms to recommend suitable crops based on factors like soil nutrients, climate conditions, and historical data.
-- **Plant Disease Identification :** Employs convolutional neural networks (CNNs) to detect and classify plant diseases accurately from uploaded images, enabling timely interventions.
-- **Fertilizer Recommendation:** Provides tailored fertilizer suggestions based on soil quality and crop requirements to enhance growth and yield.
-- **Today's Weather Forecast :** Provides real-time weather insights on temperature, humidity, and more, enabling farmers to plan their farming activities with precision.
-- **Smart Farming Guide :** Guides farmers in planning crop planting schedules for optimal productivity based on soil quality, weather, and other essential factors.
-- **User-Friendly Interface :** Offers an intuitive interface for farmers to input relevant data and receive personalized crop recommendations, disease diagnosis, and fertilizer suggestions.
+- **Smart Crop Recommendation**: Leverages machine learning to suggest the most suitable crops based on soil nutrients, climate, and historical data.
+- **Plant Disease Identification**: Uses convolutional neural networks (CNNs) to accurately detect and classify plant diseases from uploaded images, allowing for timely interventions.
+- **Fertilizer Recommendation**: Offers customized fertilizer recommendations based on soil quality and crop needs to optimize growth and yield.
+- **Today's Weather Forecast**: Delivers real-time weather updates, including temperature and humidity, to help farmers plan their activities effectively.
+- **Smart Farming Guide**: Provides guidance on crop planting schedules and management strategies to maximize productivity based on soil and weather conditions.
+- **User-Friendly Interface**: Features an intuitive platform for farmers to easily input data and receive personalized crop, disease, and fertilizer recommendations.
+
 
 ---
 # 📌 Crop Recommendation Model
