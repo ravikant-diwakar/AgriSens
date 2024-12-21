@@ -30,7 +30,7 @@ You can view the research paper directly here : [View Paper](https://github.com/
 - **Fertilizer Recommendation:** Provides tailored fertilizer suggestions based on soil quality and crop requirements to enhance growth and yield.
 - **Today's Weather Forecast :** Provides real-time weather insights on temperature, humidity, and more, enabling farmers to plan their farming activities with precision.
 - **Smart Farming Guide :** Guides farmers in planning crop planting schedules for optimal productivity based on soil quality, weather, and other essential factors.
-- **User-Friendly Interface :** Offers an intuitive interface for farmers to input relevant data and receive personalized crop recommendations and disease diagnosis.
+- **User-Friendly Interface :** Offers an intuitive interface for farmers to input relevant data and receive personalized crop recommendations, disease diagnosis, and fertilizer suggestions.
 
 ---
 # 📌 Crop Recommendation Model
