@@ -154,7 +154,9 @@ Found 17572 files belonging to 38 classes.
 'Tomato___Target_Spot', 'Tomato___Tomato_Yellow_Leaf_Curl_Virus', 'Tomato___Tomato_mosaic_virus', 'Tomato___healthy']
 
 ```
-## 📄 [Crop Disease Guide](DISEASE-GUIDE.md)
+## Crop Disease Guide
+
+- [x] 📄 [Crop Disease Guide](DISEASE-GUIDE.md)
 
 ### How it Works:
 - The model uses images of plant leaves to detect symptoms of various diseases.
