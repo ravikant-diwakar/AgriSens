@@ -67,13 +67,6 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 ## System Architecture
 
-> Follow this link for detailed information on the System Architecture.
-
- - [x] 💻 [System Architecture](SystemArchitecture.md)
-
-
-
-
 <details>
 
 <summary>💻 System Architecture</summary>
