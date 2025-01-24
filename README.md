@@ -71,6 +71,9 @@ These two models are integrated into the Smart Crop Recommendation System with P
 |---------------------|
 | ![image](https://github.com/user-attachments/assets/1313654f-009f-477c-83a4-e493b17933c4) |
 
+<img src="https://github.com/user-attachments/assets/1313654f-009f-477c-83a4-e493b17933c4" width="400"/>
+
+
 
 ## Results
 
