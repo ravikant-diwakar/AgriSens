@@ -89,6 +89,43 @@ These two models are integrated into the Smart Crop Recommendation System with P
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
+<table style="width: 100%">
+  <tr>
+    <th>Algorithm</th>
+    <th>Accuracy</th>
+  </tr>
+  <tr>
+    <td>Decision Tree</td>
+    <td>90.0</td>
+  </tr>
+  <tr>
+    <td>Gaussian Naive Bayes</td>
+    <td>99.09</td>
+  </tr>
+  <tr>
+    <td>Support Vector Machine (SVM)</td>
+    <td>10.68</td>
+  </tr>
+  <tr>
+    <td>Logistic Regression</td>
+    <td>95.23</td>
+  </tr>
+  <tr>
+    <td>Random Forest</td>
+    <td>99.55</td>
+  </tr>
+  <tr>
+    <td>XGBoost</td>
+    <td>99.09</td>
+  </tr>
+  <tr>
+    <td>KNN</td>
+    <td>97.5</td>
+  </tr>
+</table>
+
+
+
 | Accuracy Comparison Graph of all models |
 |---------------------------|
 ![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
