@@ -2,11 +2,11 @@
     <h1>AgriSens : YOUR SMART FARMING ASSISTANT</h1>
 </div>
 
+![Heading__2_-removebg-preview](https://github.com/user-attachments/assets/a546ba53-b7a7-4034-8c9f-996b85d6c792)
+
 <div align="center">
     <h3>Link : https://agrisens.netlify.app/ </h3>
 </div>
-
-![Heading__2_-removebg-preview](https://github.com/user-attachments/assets/a546ba53-b7a7-4034-8c9f-996b85d6c792)
 
 # 
 
