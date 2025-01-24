@@ -148,7 +148,7 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 ```
 
 
-The crop which can be used for diagnosis can only diagnose specific disease for which the model is trained. The List of crop diseases on Which Model is trained on is:
+> The crop which can be used for diagnosis can only diagnose specific disease for which the model is trained. The List of crop diseases on Which Model is trained on is:
 
 ```
 Found 17572 files belonging to 38 classes.
