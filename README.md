@@ -69,9 +69,9 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 | System Architecture |
 |---------------------|
-| ![image](https://github.com/user-attachments/assets/1313654f-009f-477c-83a4-e493b17933c4) |
+|<img src="https://github.com/user-attachments/assets/62cf6468-3121-4dc3-836b-ebb5314c7ce8" width="900" height="600"/> |
 
-<img src="https://github.com/user-attachments/assets/62cf6468-3121-4dc3-836b-ebb5314c7ce8" width="900" height="600"/>
+
 
 
 
