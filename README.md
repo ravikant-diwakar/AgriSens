@@ -79,8 +79,8 @@ These two models are integrated into the Smart Crop Recommendation System with P
 - The accuracy of each algorithm was assessed, with the Random Forest algorithm achieving the highest accuracy of 99.55%.
 - Table 1 below illustrates the accuracy achieved by each algorithm:
 
-[!IMPORTANT]
-The Random Forest algorithm achieved the highest accuracy of 99.55% in crop recommendation, making it the most reliable model for this system.
+> [!IMPORTANT]
+> The Random Forest algorithm achieved the highest accuracy of 99.55% in crop recommendation, making it the most reliable model for this system.
 
 **Table 1: Accuracy vs Algorithms**
 
