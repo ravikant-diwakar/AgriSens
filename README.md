@@ -132,7 +132,6 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 > [!NOTE]
 > Since model is trained for specific crops only so it can diagnose those specific crops only. The List of Crops For which this model will be helpful is:
 
-> 
 ```
 [ 'Apple',
 'Blueberry',
@@ -149,7 +148,7 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 'Tomato' ]
 ```
 
-
+> [!NOTE]
 > The crop which can be used for diagnosis can only diagnose specific disease for which the model is trained. The List of crop diseases on Which Model is trained on is:
 
 ```
