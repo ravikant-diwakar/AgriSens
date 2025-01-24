@@ -89,42 +89,6 @@ These two models are integrated into the Smart Crop Recommendation System with P
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <th>Algorithm</th>
-    <th>Accuracy</th>
-  </tr>
-  <tr>
-    <td>Decision Tree</td>
-    <td>90.0</td>
-  </tr>
-  <tr>
-    <td>Gaussian Naive Bayes</td>
-    <td>99.09</td>
-  </tr>
-  <tr>
-    <td>Support Vector Machine (SVM)</td>
-    <td>10.68</td>
-  </tr>
-  <tr>
-    <td>Logistic Regression</td>
-    <td>95.23</td>
-  </tr>
-  <tr>
-    <td>Random Forest</td>
-    <td>99.55</td>
-  </tr>
-  <tr>
-    <td>XGBoost</td>
-    <td>99.09</td>
-  </tr>
-  <tr>
-    <td>KNN</td>
-    <td>97.5</td>
-  </tr>
-</table>
-
-
 
 
 | Accuracy Comparison Graph of all models |
