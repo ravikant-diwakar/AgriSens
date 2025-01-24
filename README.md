@@ -4,11 +4,10 @@
 
 <div align="center">
     <h3>Link : https://agrisens.netlify.app/ </h3>
-
-    
-
-
 </div>
+
+![ml](https://github.com/user-attachments/assets/96ff4ff7-0261-4ca0-850d-e050f8bf3dce)
+
 
 # 
 
