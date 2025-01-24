@@ -85,7 +85,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
 **Table 1: Accuracy vs Algorithms**
 
 | Algorithm            | Accuracy   |
-|----------------------|------------|
+| :---: | :---: |
 | Decision Tree        | 90.0       |
 | Gaussian Naive Bayes| 99.09      |
 | Support Vector Machine (SVM) | 10.68 |
