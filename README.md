@@ -6,9 +6,6 @@
     <h3>Link : https://agrisens.netlify.app/ </h3>
 </div>
 
-![ml](https://github.com/user-attachments/assets/96ff4ff7-0261-4ca0-850d-e050f8bf3dce)
-
-
 # 
 
 ![Screenshot 2025-01-22 210034](https://github.com/user-attachments/assets/5b945e7d-bbb0-4463-b06f-681445e102bd)
