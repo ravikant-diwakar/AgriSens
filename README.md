@@ -89,7 +89,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
 | XGBoost              | 99.09      |
 | KNN                  | 97.5       |
 
-<table style="width: 100%">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <th>Algorithm</th>
     <th>Accuracy</th>
@@ -123,6 +123,7 @@ These two models are integrated into the Smart Crop Recommendation System with P
     <td>97.5</td>
   </tr>
 </table>
+
 
 
 
