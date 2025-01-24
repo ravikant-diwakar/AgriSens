@@ -73,6 +73,22 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 
 
+
+<details>
+
+<summary>System Architecture</summary>
+
+### System Architecture
+
+![20250124_135249](https://github.com/user-attachments/assets/1c660b6b-5b70-440e-a453-bf802b490bdc)
+
+
+</details>
+
+
+
+
+
 ## Results
 
 - Seven classification algorithms were evaluated for crop recommendation tasks.
