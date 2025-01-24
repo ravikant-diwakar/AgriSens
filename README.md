@@ -182,9 +182,6 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 - [Gaurav Kumar](https://github.com/Gauravkumar1741)
 - Aditya Chaudhary
 
-  ![Untitled_design-removebg-preview](https://github.com/user-attachments/assets/75eebab6-e949-4e92-b498-1d582c84e635)
-
-
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
