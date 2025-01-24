@@ -160,6 +160,8 @@ Found 17572 files belonging to 38 classes.
 ```
 ### Crop Disease Guide
 
+> Follow this link for detailed information on the Crop Disease Guide.
+
 - [x] 📄 [Crop Disease Guide](DISEASE-GUIDE.md)
 
 ### How it Works:
