@@ -5,7 +5,7 @@
 <div align="center">
     <h3>Link : https://agrisens.netlify.app/ </h3>
 
-    ![Heading__1_-removebg-preview](https://github.com/user-attachments/assets/3aec4685-1daa-49eb-bbd5-3db594d45890)
+    
 
 
 </div>
