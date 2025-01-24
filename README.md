@@ -19,7 +19,6 @@ Smart Farming Assistant is an innovative solution that uses advanced technology 
 
 ## Research Paper
 
-> [!nnn]
 > This project is based on the research paper published on IEEE. You can find the paper at the following link:
 
 - [IEEE : Smart Crop Recommendation System with Plant Disease Identification](https://ieeexplore.ieee.org/document/10738975)
@@ -130,8 +129,10 @@ For the Plant Disease Identification Model, a Convolutional Neural Network (CNN)
 - The model works with a predefined list of 14 crops.
 - For each crop, the model is trained to detect and classify up to 38 specific diseases.
 
+> [!NOTE]
 > Since model is trained for specific crops only so it can diagnose those specific crops only. The List of Crops For which this model will be helpful is:
 
+> 
 ```
 [ 'Apple',
 'Blueberry',
