@@ -114,9 +114,12 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 > The **Accuracy vs Crop Graphs** visualize the performance of different algorithms in crop recommendation accuracy.
 
-| Accuracy vs Crop Graphs |
-| ------------------------|
-| ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/7a268735-3af0-4849-9ea5-6cfbe92f0e23) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/6792cbce-4ecd-4827-916d-9c726e141547) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/38bdda26-5c84-427c-93a6-5bc26239f6a6) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/577be114-0ac3-4e1a-a29a-7798b49384fd) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/a377680d-bd09-4e8e-a3c5-e9a064826f85) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/b120061b-3bf3-4ebb-9cc0-145d17a7f995) ![image](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/8683cc6e-be9d-4d38-b114-5e7076cd75c6) |
+| Accuracy vs Crop Graphs | Accuracy vs Crop Graphs |
+| ----------- | -------------|
+| ![4](https://github.com/user-attachments/assets/be0bbb88-1f94-4dd4-abbc-3d9d0caf7cee) | ![6](https://github.com/user-attachments/assets/a8909bb6-6b0a-49b5-ace6-b0bd895a787d) |
+![8](https://github.com/user-attachments/assets/41914a1e-3e5d-4afc-b571-a273089fc9f9) | ![10](https://github.com/user-attachments/assets/2e0aee0e-db13-47d8-b643-31c445aab328)|
+![12](https://github.com/user-attachments/assets/54ef2efa-5965-455a-988c-ab6e5ce4208c) | ![14](https://github.com/user-attachments/assets/238c2085-9917-448f-b72e-f756c521f5a7) |
+![3](https://github.com/user-attachments/assets/aa32b4fd-6ef7-4da7-96bf-a9561216a59e) | ![2](https://github.com/user-attachments/assets/fd3fe6f9-e6c3-418e-bae1-643f9bf7fb2b) |
 
 
 ---
