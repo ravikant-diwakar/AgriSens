@@ -116,10 +116,10 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 | Accuracy vs Crop Graphs | Accuracy vs Crop Graphs |
 | ----------- | -------------|
-| ![4](https://github.com/user-attachments/assets/be0bbb88-1f94-4dd4-abbc-3d9d0caf7cee) | ![6](https://github.com/user-attachments/assets/a8909bb6-6b0a-49b5-ace6-b0bd895a787d) |
-![8](https://github.com/user-attachments/assets/41914a1e-3e5d-4afc-b571-a273089fc9f9) | ![10](https://github.com/user-attachments/assets/2e0aee0e-db13-47d8-b643-31c445aab328)|
-![12](https://github.com/user-attachments/assets/54ef2efa-5965-455a-988c-ab6e5ce4208c) | ![14](https://github.com/user-attachments/assets/238c2085-9917-448f-b72e-f756c521f5a7) |
-![3](https://github.com/user-attachments/assets/aa32b4fd-6ef7-4da7-96bf-a9561216a59e) | ![2](https://github.com/user-attachments/assets/fd3fe6f9-e6c3-418e-bae1-643f9bf7fb2b) |
+| ![4](https://github.com/user-attachments/assets/ef096a91-ee2f-470e-a134-9c0ba9c4862a) | ![6](https://github.com/user-attachments/assets/84ed33e7-f496-469e-b663-f20997936ced) |
+![8](https://github.com/user-attachments/assets/a9230e96-b813-4213-90cc-6654f8cec69f) | ![10](https://github.com/user-attachments/assets/8455aa24-1856-43f9-ab0e-07adeda49dda) |
+![12](https://github.com/user-attachments/assets/40d7bdeb-bc4f-40f5-97c3-110e229e30ca) | ![14](https://github.com/user-attachments/assets/639ba618-9930-467d-a462-354c5fd44a9c) |
+![3](https://github.com/user-attachments/assets/69a9033f-cf39-45d3-93c9-57fb9ea8229d) | ![2](https://github.com/user-attachments/assets/70ffbe66-ca11-4b89-b2bf-16d1f71b5534) |
 
 
 ---
