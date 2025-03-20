@@ -21,7 +21,11 @@ This dataset is used for training the deep learning model based on Convolutional
   - **Validation Set:** 17,572 images
   - **Crops Included:** Apple, Blueberry, Cherry (including sour), Corn, Grape, Orange, Peach, Pepper (bell), Potato, Raspberry, Soybean, Squash, Strawberry, Tomato
   - **Diseases Included:** 38 unique plant diseases (e.g., Apple Scab, Tomato Blight, Powdery Mildew)
+ 
+- Download Link:
 
+[Plant Disease Image Dataset (Google Drive)]([INSERT LINK HERE](https://www.kaggle.com/code/vad13irt/plant-disease-classification))
+ 
 ### 3. **Fertilizer Recommendation Dataset**
 This dataset helps in providing personalized fertilizer recommendations based on soil quality and crop requirements. The dataset contains information about various types of fertilizers and their optimal usage based on soil nutrient levels and crop requirements.
 
