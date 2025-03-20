@@ -211,8 +211,8 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 > [!TIP]
 > ### Common Issues and Tips
-> - Ensure all dependencies in the requirements.txt are installed.
-> - For faster processing in TensorFlow, use a compatible GPU or CPU.
+> - Ensure all dependencies in the `requirements.txt` are installed.
+> - For TensorFlow-based disease detection, ensure you have a compatible GPU or CPU for faster processing.
 
 
 
