@@ -222,6 +222,37 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 - [Gaurav Kumar](https://github.com/Gauravkumar1741)
 - Aditya Chaudhary
 
+## 📷 Screenshots
+
+| Home page | Features | 
+| --------- | --------- |
+| ![Screenshot 2025-03-22 104944](https://github.com/user-attachments/assets/7b3f6f1b-6423-4ee6-ab16-6391846635f5) | ![Screenshot 2025-03-22 105012](https://github.com/user-attachments/assets/58fe884b-2868-4d55-80d9-a3bdf519ece7) |
+
+| Team Members | Contact Us |
+| --------- | --------- |
+| ![Screenshot 2025-03-22 105046](https://github.com/user-attachments/assets/1e15fa2b-afb1-4fa1-b743-a72af6dcd3c1) | ![Screenshot 2025-03-22 105141](https://github.com/user-attachments/assets/f3e6a7ca-9ebd-41c5-88c1-fd6e1f6528e9) |
+
+| Crop Recommendation | Plant Disease Identification |
+| --------- | --------- |
+| ![Screenshot 2025-03-22 105516](https://github.com/user-attachments/assets/b1cedad0-48fc-44e6-8595-93e9795519f5) | ![Screenshot 2025-03-22 110018](https://github.com/user-attachments/assets/af7915e4-be3d-4741-bec6-4a2e49054b3a) | 
+
+| Fertilizer Recommendation | Smart Farming Guide |
+| --------- | --------- |
+| ![Screenshot 2025-03-22 105639](https://github.com/user-attachments/assets/0d526603-15c5-443d-9f6c-cab83596cbe0) | ![Screenshot 2025-03-22 110057](https://github.com/user-attachments/assets/d454ef17-287c-4a0b-bee2-a5085d63a8bb) |
+
+| 📲 | 📲 | 📲 | 📲 |
+| -- | -- | -- | -- |
+| ![Screenshot 2025-03-22 110147](https://github.com/user-attachments/assets/a83eb79b-0c67-4a77-ae20-936ea481a8d4) | ![Screenshot 2025-03-22 110403](https://github.com/user-attachments/assets/ff101e2d-c712-48da-b478-9c3793ace689) | ![Screenshot 2025-03-22 110637](https://github.com/user-attachments/assets/c188d7f7-93ec-42d7-a719-d81c7eec2b59) | ![Screenshot 2025-03-22 110738](https://github.com/user-attachments/assets/91298e33-94ef-4408-b8d8-9d00b3195074) |
+
+
+
+
+
+
+
+
+
+
 ## 📧 Contact
 
 If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
