@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>AgriSens : YOUR SMART FARMING ASSISTANT</h1>
+    <h1>AgriSens : AI-POWERED SMART FARMING ASSISTANT</h1>
 </div>
 
 <div align="center">
