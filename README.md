@@ -8,6 +8,12 @@
 
 ![Screenshot 2025-01-22 210034](https://github.com/user-attachments/assets/5b945e7d-bbb0-4463-b06f-681445e102bd)
 
+> [!WARNING]
+> **🚨 New Version of Crop Recommendation System Available**
+> A new, significantly updated version of the Crop Recommendation System with extra features is now available: **AI-Powered Crop Recommendation System for India: District and Month-Specific Insights for Optimized Agricultural Practices**.
+> 
+> 👉 **[Click here to visit the new repository](https://github.com/ravikant-diwakar/MAJOR-PROJECT_8TH-SEM)**
+
 
 ## Overview
 
